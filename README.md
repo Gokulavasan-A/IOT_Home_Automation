@@ -4,8 +4,7 @@ Home Automation Project using NodeMCU, Alexa, and Arduino Cloud
 
 Overview
 
-  This project demonstrates a smart home automation system that integrates NodeMCU, Alexa, and Arduino Cloud to control        appliances. It allows users to manage devices using voice commands via Alexa or through a web dashboard, ensuring         
-  convenience and energy efficiency.
+  This project demonstrates a smart home automation system that integrates NodeMCU, Alexa, and Arduino Cloud to control        appliances. It allows users to manage devices using voice commands via Alexa or through a web dashboard, ensuring            convenience and energy efficiency.
 
 Features
 
@@ -16,7 +15,7 @@ Features
 
 Technology Stack
 
-  1) Hardware: NodeMCU ESP8266, Relays, Sensors (if applicable).
+  1) Hardware: NodeMCU ESP8266, Relays.
   2) Cloud Platform: Arduino Cloud for IoT.
   3) Software: Arduino IDE, Alexa app
 
